@@ -1,1 +1,3 @@
-este es el archivo nuemro 1
+este es el archivo numero 1
+modificaciones al archivo
+editanto desde bloc de notas
